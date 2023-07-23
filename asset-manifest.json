@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nataliia-react-1/static/css/main.b5320759.css",
+    "main.js": "/nataliia-react-1/static/js/main.dd11c351.js",
+    "index.html": "/nataliia-react-1/index.html",
+    "main.b5320759.css.map": "/nataliia-react-1/static/css/main.b5320759.css.map",
+    "main.dd11c351.js.map": "/nataliia-react-1/static/js/main.dd11c351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.dd11c351.js"
+  ]
+}
